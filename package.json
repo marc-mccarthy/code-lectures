@@ -1,5 +1,5 @@
 {
-  "name": "terraform-aws-github",
+  "name": "code-lectures",
   "version": "1.0.0",
   "description": "See README.md in each excersise for more details.\r Work in progress.",
   "main": "index.js",
